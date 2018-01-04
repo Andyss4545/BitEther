@@ -1,6 +1,6 @@
 # BitEther
 
-BitEther is a lending , investment, staking and game mining platform built on trust and reputation with ethereum with ethereum Blockchain ecosystem
+BitEther is a lending , investment, staking and game mining platform built on trust and reputation with ethereum Blockchain ecosystem
 
 website
 https://www.bitether.co
