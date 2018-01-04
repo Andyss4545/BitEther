@@ -31,8 +31,8 @@ interface BitEther {
 
 contract BTTPREICO is owned {
 
-  uint public constant STARTTIME = 1515794400; // 19 DEC 2017 00:00 GMT
-  uint public constant ENDTIME = 1517104800;   // 03 JAN 2017 00:00 GMT
+  uint public constant STARTTIME = 1515794400; // 12 JAN 2017 00:00 GMT
+  uint public constant ENDTIME = 1517104800;   // 27 JAN 2017 00:00 GMT
   uint public constant BTTPERETH = 615;       // price: approx $0.65 ea
 
   BitEther public tokenSC;
